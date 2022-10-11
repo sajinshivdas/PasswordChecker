@@ -108,7 +108,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Made in Streamlit with by <a href='https://github.com/sajinshivdas/PasswordChecker/tree/main/PasswordCheckerScript'>Sajin Shivdas</a>.
+<p>Made in Streamlit by <a href='https://github.com/sajinshivdas/PasswordChecker/tree/main/PasswordCheckerScript'>Sajin Shivdas</a>.
 
 </p>
 </div>
